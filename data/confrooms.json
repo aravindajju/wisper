@@ -1,0 +1,166 @@
+{"index":{"_index":"rooms", "_type":"room", "_id": "2"}}
+{"country":"IND","city":"BLR","location":"EC1","floor":"1","wing":"A","room":"Nagarhole","tower":"T4"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "3"}}
+{"country":"IND","city":"BLR","location":"EC1","floor":"G","wing":"A","room":"Ranganathittu","tower":"T4"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "4"}}
+{"country":"IND","city":"BLR","location":"EC2","floor":"3","room":"Peacock","tower":"T5"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "5"}}
+{"country":"IND","city":"BLR","location":"EC2","floor":"G","wing":"A","room":"Cuckoo","tower":"T5"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "6"}}
+{"country":"IND","city":"BLR","location":"EC2","floor":"1","wing":"A","room":"Spectrum","tower":"T6"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "7"}}
+{"country":"IND","city":"BLR","location":"EC2","floor":"2","wing":"B","room":"Narmada","tower":"T6"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "8"}}
+{"country":"IND","city":"BLR","location":"EC2","floor":"3","wing":"B","room":"Yamuna","tower":"T6"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "9"}}
+{"country":"IND","city":"BLR","location":"EC2","floor":"G","wing":"B","room":"Mahanadi","tower":"T6"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "10"}}
+{"country":"IND","city":"BLR","location":"EC2","floor":"G","wing":"A","room":"fusion","tower":"T6"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "11"}}
+{"country":"IND","city":"BLR","location":"EC2","floor":"1","wing":"A","room":"Banyan","tower":"T7"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "12"}}
+{"country":"IND","city":"BLR","location":"EC2","floor":"3","wing":"A","room":"Oak","tower":"T7"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "13"}}
+{"country":"IND","city":"BLR","location":"EC2","floor":"G","wing":"A","room":"Redwood","tower":"T7"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "14"}}
+{"country":"IND","city":"BLR","location":"EC2","floor":"G","wing":"A","room":"olive","tower":"T7"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "15"}}
+{"country":"IND","city":"BLR","location":"EC3","floor":"2","wing":"B","room":"Leo","tower":"T8"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "16"}}
+{"country":"IND","city":"BLR","location":"EC3","floor":"5","wing":"B","room":"Virgo","tower":"T8"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "17"}}
+{"country":"IND","city":"BLR","location":"EC3","floor":"6","wing":"A","room":"Quartz","tower":"T8"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "18"}}
+{"country":"IND","city":"BLR","location":"EC3","floor":"4","wing":"A","room":"SAGITTARIUS","tower":"T8"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "19"}}
+{"country":"IND","city":"BLR","location":"EC3","floor":"4","wing":"B","room":"SCORPIO","tower":"T8"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "20"}}
+{"country":"IND","city":"BLR","location":"EC3","floor":"F","wing":"A","room":"Aquarius","tower":"T8"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "21"}}
+{"country":"IND","city":"BLR","location":"EC","floor":1,"room":"Crows","tower":"SEZ2"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "22"}}
+{"country":"IND","city":"BLR","location":"EC","floor":11,"room":"OSTRICH","tower":"SEZ2"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "23"}}
+{"country":"IND","city":"BLR","location":"EC","floor":2,"room":"Eider","tower":"SEZ2"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "24"}}
+{"country":"IND","city":"BLR","location":"EC","floor":3,"room":"FLAMINGOS","tower":"SEZ2"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "25"}}
+{"country":"IND","city":"BLR","location":"EC","floor":5,"room":"GANNETS","tower":"SEZ2"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "26"}}
+{"country":"IND","city":"BLR","location":"EC","floor":5,"room":"GOLDEN EYE","tower":"SEZ2"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "27"}}
+{"country":"IND","city":"BLR","location":"EC","floor":5,"room":"GULLS","tower":"SEZ2"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "28"}}
+{"country":"IND","city":"BLR","location":"EC","floor":6,"room":"BRAMBLING","tower":"SEZ2"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "29"}}
+{"country":"IND","location":"EC4","city":"BLR","room":"Athena","tower":"T10"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "30"}}
+{"country":"IND","city":"BLR","location":"EC4","floor":3,"room":"KRONOS","tower":"T10"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "31"}}
+{"country":"IND","location":"EC4","city":"BLR","room":"Herakles","tower":"T10"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "32"}}
+{"country":"IND","location":"EC4","city":"BLR","room":"Themis","tower":"T10"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "33"}}
+{"country":"IND","location":"EC4","city":"BLR","room":"Hussain","tower":"T11"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "34"}}
+{"country":"IND","location":"EC4","city":"BLR","room":"Bandhavgarh","tower":"T12"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "35"}}
+{"country":"IND","location":"EC4","city":"BLR","room":"Kaziranga","tower":"T12"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "36"}}
+{"country":"IND","location":"EC4","city":"BLR","room":"Manas","tower":"T12"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "37"}}
+{"country":"IND","location":"EC4","city":"BLR","room":"Ranthambore","tower":"T12"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "38"}}
+{"country":"IND","location":"EC4","city":"BLR","room":"Badami","tower":"T15"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "39"}}
+{"country":"IND","city":"BLR","location":"EC4","floor":"Ground","room":"TP","tower":"T18"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "40"}}
+{"country":"IND","city":"BLR","location":"EC4","floor":1,"room":"Chilwa","tower":"T9"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "41"}}
+{"country":"IND","city":"BLR","location":"EC4","floor":3,"room":"Edward","tower":"T9"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "42"}}
+{"country":"IND","location":"EC4","city":"BLR","room":"Nassar","tower":"T9"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "43"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":1,"wing":"A","room":"CARNATION","tower":"S1"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "44"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":"Ground","wing":"D","room":"HIBISCUS","tower":"S1"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "45"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":1,"wing":"A","room":"MAGNOLIA","tower":"S2"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "46"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":"Ground","wing":"A","room":"SNOWDROP","tower":"S2"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "47"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":"Ground","wing":"D","room":"LAVENDER","tower":"S2"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "48"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":1,"wing":"A","room":"CONCORD","tower":"S3"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "49"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":1,"wing":"B","room":"CHAMBER","tower":"S3"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "50"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":3,"wing":"A","room":"ANTIQUE","tower":"S3"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "51"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":4,"wing":"A","room":"QUOROM","tower":"S3"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "52"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":4,"wing":"B","room":"OTTERA","tower":"S3"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "53"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":5,"wing":"A","room":"COUNCIL","tower":"S3"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "54"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":5,"wing":"B","room":"COSMOS","tower":"S3"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "55"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":6,"wing":"A","room":"UTSAV","tower":"S3"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "56"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":6,"wing":"B","room":"EMBASSY","tower":"S3"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "57"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":6,"wing":"B","room":"SENATE","tower":"S3"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "58"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":7,"wing":"A","room":"Conclave","tower":"S3"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "59"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":8,"wing":"A","room":"Cabinet","tower":"S3"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "60"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":8,"wing":"A","room":"REGENCY","tower":"S3"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "61"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":8,"wing":"B","room":"Alaska","tower":"S3"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "62"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":5,"wing":"B","room":"BANYAN","tower":"S4"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "63"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":6,"wing":"B","room":"CASURINA","tower":"S4"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "64"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":7,"wing":"B","room":"CYPRUS","tower":"S4"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "65"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":8,"wing":"B","room":"GULMOHAR","tower":"S4"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "66"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":9,"wing":"B","room":"NANNARI","tower":"S4"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "67"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":10,"wing":"A","room":"OLIVE","tower":"S4"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "68"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":11,"wing":"A","room":"PALM","tower":"S4"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "69"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":12,"wing":"A","room":"SANDALWOOD","tower":"S4"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "70"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":16,"wing":"A","room":"SUNDEW","tower":"S4"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "71"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":16,"wing":"B","room":"TULIP","tower":"S4"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "72"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":4,"wing":"A","room":"BALSAM","tower":"S5"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "73"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":4,"wing":"A","room":"BEGONIA","tower":"S5"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "74"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":4,"wing":"A","room":"CHRYSANTHEMUM","tower":"S5"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "75"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":4,"wing":"A","room":"DAFFODIL","tower":"S5"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "76"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":4,"wing":"A","room":"DAISY","tower":"S5"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "77"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":4,"wing":"A","room":"DALIA","tower":"S5"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "78"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":4,"wing":"A","room":"GERANIUM","tower":"S5"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "79"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":4,"wing":"A","room":"GERBERA","tower":"S5"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "80"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":4,"wing":"A","room":"GLADIOLA","tower":"S5"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "81"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":5,"wing":"B","room":"LANTANA","tower":"S5"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "82"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":6,"wing":"A","room":"LILY","tower":"S5"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "83"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":8,"wing":"A","room":"MARIGOLD","tower":"S5"}
+{"index":{"_index":"rooms", "_type":"room", "_id": "84"}}
+{"country":"IND","city":"BLR","location":"SJP2","floor":9,"wing":"A","room":"ORCHID","tower":"S5"}

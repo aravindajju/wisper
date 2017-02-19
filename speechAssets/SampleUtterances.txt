@@ -1,0 +1,22 @@
+getOverview more information about wisper
+getOverview tell me more about wisper 
+getOverview tell me some facts about wisper 
+getOverview facts about wisper 
+
+getRoomLocationIntent find me {roomname} 
+getRoomLocationIntent where is {roomname} 
+getRoomLocationIntent where is the meeting room {roomname} 
+getRoomLocationIntent how do i go to {roomname} 
+getRoomLocationIntent {roomname} 
+
+getRoomDirectionIntent how do i go there
+getRoomDirectionIntent how do i go to {roomlocation} 
+getRoomDirectionIntent directions for {roomlocation} 
+
+getRoomInfoIntent tell me more 
+getRoomInfoIntent tell me info about {roomname}
+getRoomInfoIntent what facilities are at {roomname}
+
+AMAZON.StopIntent stop
+AMAZON.StopIntent off
+AMAZON.StopIntent shut up
